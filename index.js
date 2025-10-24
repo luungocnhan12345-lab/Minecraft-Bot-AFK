@@ -3,8 +3,8 @@ const { pathfinder, Movements, goals } = require('mineflayer-pathfinder');
 const Vec3 = require('vec3');
 
 const bot = mineflayer.createBot({
-  host: 'SERVER_IP', // đổi thành IP server
-  port: 25565,       // đổi port nếu cần
+  host: 'nhan.play.hosting', // đổi thành IP server
+  port: 36349,       // đổi port nếu cần
   username: 'BotAFK' // đổi tên bot
 });
 
