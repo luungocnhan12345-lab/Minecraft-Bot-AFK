@@ -4,7 +4,7 @@ const Vec3 = require('vec3')
 
 const bot = mineflayer.createBot({
   host: 'nhan.play.hosting', // 
-  port: 36349,
+  port: 46945,
   username: 'afkbot', // 
   version: false
 })
