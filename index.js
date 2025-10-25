@@ -4,7 +4,7 @@ const Vec3 = require('vec3');
 
 const bot = mineflayer.createBot({
   host: 'nhan.play.hosting', // đổi thành IP server
-  port: 36349,       // đổi port nếu cần
+ 
   username: 'BotAFK' // đổi tên bot
 });
 
