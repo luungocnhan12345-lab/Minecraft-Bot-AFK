@@ -6,7 +6,7 @@ const bot = mineflayer.createBot({
   host: 'nhan.play.hosting', // 
   port: 46945,
   username: 'afkbot', // 
-  version: false
+  version: 1.19.2
 })
 
 bot.loadPlugin(pathfinder)
