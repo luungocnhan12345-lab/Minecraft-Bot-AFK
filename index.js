@@ -21,3 +21,5 @@ bot.once('spawn', () => {
 
 bot.on('error', err => console.log(err));
 bot.on('end', () => console.log('Bot đã disconnect'));
+bot.on('kicked', console.log)
+bot.on('error', console.log)
